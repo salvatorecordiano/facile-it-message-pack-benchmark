@@ -1,5 +1,6 @@
 # A naive benchmark for MessagePack
-## Facile.it Engineering Blog
+
+This repository contains code showed in the post [MessagePack: an alternative to JSON?](http://engineering.facile.it/blog/eng/message-pack-an-alternative-to-json/) published on [Facile.it Engineering Blog](http://engineering.facile.it).
 
 ## Installation
 
